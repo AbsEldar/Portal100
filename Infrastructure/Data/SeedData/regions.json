@@ -1,0 +1,32 @@
+[
+    {
+        "Id": 1,
+        "NameRu": "Region 001",
+        "NameEn": "Region 001",
+        "NameKz": "Region 001"
+    },
+    {
+        "Id": 2,
+        "NameRu": "Region 002",
+        "NameEn": "Region 002",
+        "NameKz": "Region 002"
+    },
+    {
+        "Id": 3,
+        "NameRu": "Region 003",
+        "NameEn": "Region 003",
+        "NameKz": "Region 003"
+    },
+    {
+        "Id": 4,
+        "NameRu": "Region 004",
+        "NameEn": "Region 004",
+        "NameKz": "Region 004"
+    },
+    {
+        "Id": 5,
+        "NameRu": "Region 005",
+        "NameEn": "Region 005",
+        "NameKz": "Region 005"
+    }
+]

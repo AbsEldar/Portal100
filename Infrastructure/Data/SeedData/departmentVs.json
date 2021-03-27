@@ -1,0 +1,25 @@
+[
+    {
+        "Name": "DepartmentV_Name 001",
+        "ShortName": "DepartmentV_ShortName 001",
+
+        "DisplayNameRus": "DepartmentV_DisplayNameRus 001",
+        "DisplayNameEng": "DepartmentV_DisplayNameEng 001",
+        "DisplayNameKaz": "DepartmentV_DisplayNameKaz 001",
+
+        "FromNameRus": "DepartmentV_FromNameRus 001",
+        "FromNameEng": "DepartmentV_FromNameEng 001",
+        "FromNameKaz": "DepartmentV_FromNameKaz 001",
+
+        "ToNameRus": "DepartmentV_ToNameRus 001",
+        "ToNameEng": "DepartmentV_ToNameEng 001",
+        "ToNameKaz": "DepartmentV_ToNameKaz 001",
+
+        "Priority": 100,
+        "Disabled": false,
+
+        "DepartmentId": 1,
+        "RegionId": 1
+
+    }
+]
